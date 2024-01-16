@@ -1,0 +1,4 @@
+interface IPet
+{
+    procedure MakeSound();
+}

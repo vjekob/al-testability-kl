@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "App",
+			"path": "App"
+		},
+		{
+			"path": "Test"
+		},
+		{
+			"path": "Ext"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/Thumbs.db": true,
+			"**/.alpackages": true,
+			"**/.snapshots": true,
+			"**/rad.json": true,
+		},
+		"al.packageCachePath": [
+			"../../../../.alpackages"
+		]
+	}
+}
